@@ -1,5 +1,12 @@
-com/youtube/crud/entity/Employee.class
-com/youtube/crud/dao/EmployeeDao.class
-com/youtube/crud/service/EmployeeService.class
-com/youtube/crud/controller/EmployeeController.class
-com/youtube/crud/CrudApplication.class
+com\youtube\crud\controller\StudentController.class
+com\youtube\crud\entity\Employee.class
+com\youtube\crud\dao\EmployeeDao.class
+com\youtube\crud\controller\EmployeeController.class
+com\youtube\crud\controller\StudentEntity.class
+com\youtube\crud\service\EmployeeService.class
+com\youtube\crud\service\StudentService.class
+com\youtube\crud\CrudApplication.class
+com\youtube\crud\dao\StudentRepository.class
+com\youtube\crud\controller\practice.class
+com\youtube\crud\entity\StudentResponse.class
+com\youtube\crud\entity\LoginRequest.class

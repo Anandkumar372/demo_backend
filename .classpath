@@ -34,16 +34,7 @@
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/anand.kumar/.m2/repository/org/json/json/20080701/json-20080701.jar" sourcepath="C:/Users/anand.kumar/.m2/repository/org/json/json/20080701/json-20080701-sources.jar">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="org.eclipse.jst.component.archivename" value="json-20080701.jar"/>
-			<attribute name="maven.groupId" value="org.json"/>
-			<attribute name="maven.artifactId" value="json"/>
-			<attribute name="maven.version" value="20080701"/>
-			<attribute name="maven.scope" value="compile"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>

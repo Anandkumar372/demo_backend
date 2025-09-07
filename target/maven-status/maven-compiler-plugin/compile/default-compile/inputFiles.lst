@@ -1,5 +1,12 @@
-/Users/varad/Learn Programming Yourself/Application Code/crud-spring3-services/src/main/java/com/youtube/crud/service/EmployeeService.java
-/Users/varad/Learn Programming Yourself/Application Code/crud-spring3-services/src/main/java/com/youtube/crud/CrudApplication.java
-/Users/varad/Learn Programming Yourself/Application Code/crud-spring3-services/src/main/java/com/youtube/crud/entity/Employee.java
-/Users/varad/Learn Programming Yourself/Application Code/crud-spring3-services/src/main/java/com/youtube/crud/dao/EmployeeDao.java
-/Users/varad/Learn Programming Yourself/Application Code/crud-spring3-services/src/main/java/com/youtube/crud/controller/EmployeeController.java
+E:\DemoApplication\springboot_crud_16\crud-spring3-services\src\main\java\com\youtube\crud\controller\EmployeeController.java
+E:\DemoApplication\springboot_crud_16\crud-spring3-services\src\main\java\com\youtube\crud\controller\StudentController.java
+E:\DemoApplication\springboot_crud_16\crud-spring3-services\src\main\java\com\youtube\crud\CrudApplication.java
+E:\DemoApplication\springboot_crud_16\crud-spring3-services\src\main\java\com\youtube\crud\entity\Employee.java
+E:\DemoApplication\springboot_crud_16\crud-spring3-services\src\main\java\com\youtube\crud\controller\practice.java
+E:\DemoApplication\springboot_crud_16\crud-spring3-services\src\main\java\com\youtube\crud\entity\LoginRequest.java
+E:\DemoApplication\springboot_crud_16\crud-spring3-services\src\main\java\com\youtube\crud\entity\StudentResponse.java
+E:\DemoApplication\springboot_crud_16\crud-spring3-services\src\main\java\com\youtube\crud\dao\EmployeeDao.java
+E:\DemoApplication\springboot_crud_16\crud-spring3-services\src\main\java\com\youtube\crud\controller\StudentEntity.java
+E:\DemoApplication\springboot_crud_16\crud-spring3-services\src\main\java\com\youtube\crud\service\StudentService.java
+E:\DemoApplication\springboot_crud_16\crud-spring3-services\src\main\java\com\youtube\crud\dao\StudentRepository.java
+E:\DemoApplication\springboot_crud_16\crud-spring3-services\src\main\java\com\youtube\crud\service\EmployeeService.java
