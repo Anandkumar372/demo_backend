@@ -3,7 +3,7 @@ package com.youtube.crud.entity;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "employee")
+@Table(name = "employeetest")
 public class Employee {
 
     @Id
