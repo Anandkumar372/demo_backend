@@ -44,7 +44,7 @@ public class StudentEntity {
 
     @Lob
     @Basic(fetch = FetchType.LAZY)
-    private byte[] photo=null;
+    private byte[] photo;
 
     private String photoContentType;
 
