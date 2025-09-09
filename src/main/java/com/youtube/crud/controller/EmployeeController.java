@@ -121,6 +121,11 @@ public class EmployeeController {
     public List<Employee> getEmployees() {
         return employeeService.getEmployees();
     }
+    
+    @GetMapping("/sayhello")
+    public String sayHello() {
+        return "Hello World";
+    }
 
     @GetMapping("/get/employee/{employeeId}")
     public Employee getEmployee(@PathVariable Integer employeeId) {
