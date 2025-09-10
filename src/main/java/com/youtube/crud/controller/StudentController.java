@@ -17,6 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
 import com.youtube.crud.dao.StudentRepository;
+import com.youtube.crud.entity.StudentEntity;
 import com.youtube.crud.entity.StudentResponse;
 import com.youtube.crud.service.StudentService;
 

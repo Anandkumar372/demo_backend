@@ -1,4 +1,4 @@
-package com.youtube.crud.controller;
+package com.youtube.crud.entity;
 
 import org.springframework.web.multipart.MultipartFile;
 
