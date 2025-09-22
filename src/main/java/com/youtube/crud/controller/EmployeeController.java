@@ -35,6 +35,7 @@ public class EmployeeController {
     @Autowired
     private EmployeeService employeeService;
     @Autowired
+    
     private EmployeeDao employeeDao;
     @Autowired
     StudentRepository repo;
@@ -48,6 +49,8 @@ public class EmployeeController {
         if ("admin".equals(request.getPassword())) {
         	
         	String emailId=request.getUsername();
+        	
+        	
         	
             // Normally use JWT here
         	
