@@ -17,9 +17,9 @@ public class TestController {
 	  }
 	
 	  
-	  @GetMapping("/hello/{name}")
+	  @GetMapping("/sayHi/{name}")
 	  public String sayHi(@PathVariable String name) {
-	    return "Hello Hi"+name;
+	    return "++****Hello Hi*****++==================>"+name;
 	  }
 	  
 }
