@@ -16,4 +16,10 @@ public class TestController {
 	    return "Hello World!";
 	  }
 	
+	  
+	  @GetMapping("/hello/{name}")
+	  public String sayHi(@PathVariable String name) {
+	    return "Hello Hi"+name;
+	  }
+	  
 }
