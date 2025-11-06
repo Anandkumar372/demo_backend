@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
 
 	  @GetMapping("/hello")
-	  public String get(@PathVariable Long id) {
+	  public String get() {
 	    return "Hello World!";
 	  }
 	
